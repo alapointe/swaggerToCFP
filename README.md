@@ -1,4 +1,4 @@
-# README #
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19423858.svg)](https://doi.org/10.5281/zenodo.19423858)
 
 # SwaggerToCFP
 
